@@ -27,7 +27,7 @@ As arrows functions são uma outra sintaxe para escrita de funções, mais curta
   let frase =  `Hello World`;
 
   let fraseArray = (frase) => frase.split(' ');
-  console.log(fraseArray(frase)); //chamando a funçao     criada
+  console.log(fraseArray(frase)); //chamando a funçao criada
  
   ```
 ## Promises
