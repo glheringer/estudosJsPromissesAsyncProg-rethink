@@ -3,14 +3,15 @@
 As arrows functions são uma outra sintaxe para escrita de funções, mais curta e objetiva, o nome decorre do simbolo => (arrow, ou flecha) contido em sua sintaxe.
 - Principais formas de escrita: 
   ``` bash
-   /*
+   
   //com argumentos
   (a,b) => {
     return a + b;
   }
 
   (a,b) => a + b; 
-  */
+  
+  
   let a = 5;
   let b = 10;
 
