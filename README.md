@@ -31,9 +31,7 @@ As arrows functions são uma outra sintaxe para escrita de funções, mais curta
  
   ```
 ## Promises
-Estudos de JavaScript Promises(promise.js) and Async Programming(await.js)
-
-Callback Pyramid of Doom: Um problema comum que surge qunado o programador usa muitos leveis hierárquica para acessar uma função (codigo sujo e de difícil reparo), por mais que uma função  assíncrona  esteja entre o código ela só será  chamada (callback) no final do processamento .
+Callback Pyramid of Doom: Um problema comum que surge quando o programador usa muitos leveis hierárquica para acessar uma função (codigo sujo e de difícil reparo), por mais que uma função  assíncrona  esteja entre o código ela só será  chamada (callback) no final do processamento .
 
 ## Como promises ajudam ?
 
